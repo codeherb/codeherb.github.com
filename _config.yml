@@ -1,7 +1,7 @@
-title: Codehurb
-description: 
+title: Codeherb
+description: Codeherb is webpage for programming issue. Subject is FP, Rx, Machine Running.
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-midnight
 
 gems:
