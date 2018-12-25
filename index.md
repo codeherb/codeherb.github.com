@@ -20,6 +20,9 @@ node().
 ```
 만약 노드 이름이 변경되지 않고 오류가 발생한다면, epmd가 실행되어 있는지 확인해보시기 바랍니다.  
   
-## Welcome to Codehurb.
-Codehurb is webpage for programming issue.
-Subject is Scala, Rx, C++, Machine Running.
+## Welcome to Codeherb.
+Codeherb is webpage for programming issue.
+Subject is FP, Rx, Machine Running.
+
+![Functional Programming]({{site.baseurl}}/fp/index.html)
+![Erlang]({{site.baseurl}}/fp/erlang)
