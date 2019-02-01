@@ -1,8 +1,14 @@
-title: Codeherb
-description: Codeherb is webpage for programming issue. Subject is FP, Rx, Machine Running.
-google_analytics: 
-show_downloads: false
-theme: jekyll-theme-midnight
+# Site settings
+title: 'Codeherb'
+email: hiddenkit@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Yakcho's Developer Story
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://codeherb.github.io" # the base hostname & protocol for your site
+remote_theme: volny/creative-theme-jekyll
 
-gems:
-  - jekyll-mentions
+twitter_username:
+github_username: codeherb
+
+# Build settings
+markdown: kramdown
