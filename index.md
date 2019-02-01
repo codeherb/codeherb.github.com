@@ -1,4 +1,7 @@
-  
+---
+layout: front
+---
+
 ## Welcome to Codeherb.
 Codeherb is webpage for programming issue.
 Subject is FP, Rx, Machine Running.
