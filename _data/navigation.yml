@@ -14,21 +14,21 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       Posts
       ko-KR   : *KO
-    url: /index.html
+    url: /posts.html
     
   - titles:
-      en      : &EN       Tags
+      en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  Tags
+      zh-Hans : &ZH_HANS  Archive
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  Tags
+      zh-Hant : &ZH_HANT  Archive
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       Tags
+      ko      : &KO       Archive
       ko-KR   : *KO
     url: /archive.html
