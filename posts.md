@@ -1,0 +1,5 @@
+---
+layout: articles
+# articles:
+#   excerpt_type: html
+---
