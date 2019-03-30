@@ -16,4 +16,4 @@ article_header:
   {%- include scripts/home.js -%}
 </script>
 
-{{ content }}
+
