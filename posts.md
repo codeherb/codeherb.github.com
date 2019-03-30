@@ -9,3 +9,11 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /docs/assets/images/cover3.jpg
 ---
+<div class="layout--home">
+  {%- include paginator.html -%}
+</div>
+<script>
+  {%- include scripts/home.js -%}
+</script>
+
+{{ content }}
