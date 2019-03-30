@@ -13,7 +13,7 @@ article_header:
   {%- include pageview.html -%}
 </div>
 <script>
-  {%- include scripts/home.js -%}
+  {%- include scripts/page.js -%}
 </script>
 
 {{ content }}
