@@ -10,10 +10,10 @@ article_header:
     src: /docs/assets/images/cover3.jpg
 ---
 <div class="layout--home">
-  {%- include paginator.html -%}
+  {%- include pageview.html -%}
 </div>
 <script>
   {%- include scripts/home.js -%}
 </script>
 
-
+{{ content }}
