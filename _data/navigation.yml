@@ -1,21 +1,4 @@
-header:
-  - titles:
-      en      : &EN       Posts
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  Posts
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  Posts
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       Posts
-      ko-KR   : *KO
-    url: /posts.html
-    
+header:    
   - titles:
       en      : &EN       Archive
       en-GB   : *EN
@@ -32,3 +15,20 @@ header:
       ko      : &KO       Archive
       ko-KR   : *KO
     url: /archive.html
+
+  - titles:
+      en      : &EN       About
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  About
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  About
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       About
+      ko-KR   : *KO
+    url: /about.html
