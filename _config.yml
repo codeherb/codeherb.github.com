@@ -20,7 +20,7 @@ text_skin: "default" # "default" (default), "dark", "forest", "ocean", "chocolat
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://codeherb.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : (\ i -> "am a developer" )
+title   : (\ code -> "herb" )
 description: > # this means to ignore newlines until "Language & timezone"
   Yakcho's Developer Story
 
