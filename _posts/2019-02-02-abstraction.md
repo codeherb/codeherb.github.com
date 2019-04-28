@@ -2,6 +2,9 @@
 title: 추상화 그리고 수학적 추상화
 tags: FP, Math
 key: post-abstraction
+header:
+  theme: dark
+  background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
 ---
 
 추상화(抽象化, Abstraction)란?<br>
