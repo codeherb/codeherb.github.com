@@ -1,5 +1,5 @@
 ---
-title: [번역] Asynchronous Flow
+title: (번역) Asynchronous Flow
 tags: kotlin, reactive
 key : post-kotlin-flow
 header:
